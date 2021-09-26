@@ -34,7 +34,6 @@
 [<img align="left" alt="MongoDB" width="36px" height="36px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="GitLab" width="36px" height="36px"  src="https://user-images.githubusercontent.com/12550150/134827130-93ef6113-55aa-4833-94f1-7c053dab0f01.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="36px" height="36px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="36px" height="36px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
 <br />
