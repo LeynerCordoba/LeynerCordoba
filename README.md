@@ -10,9 +10,9 @@
 [![GitHub LeynerCordova](https://img.shields.io/github/followers/leynercordoba?label=follow&style=social)](https://github.com/LeynerCordoba)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://lcordobam.com/)
 ![](https://komarev.com/ghpvc/?username=leynercordoba&color=blue)
-- 🌱 I am currently learning AWS and Django 🤣.
-- 🔭 Preparing to get the main AWS certifications.
-- 🥅 Goals 2021: Get certified in Nodejs and MongoDB.
+- 🌱 I am currently learning AWS, Django and English 🤣.
+- 🔭 Preparing to get the main AWS certifications and Python.
+- 🥅 Goals 2022: Get certified in Nodejs and MongoDB.
 - ⚡ Fun fact: I love to read and write light novels, play a lot of sports and travel a lot.
 
 <br />
