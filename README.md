@@ -19,33 +19,16 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="PHP" width="36px" height="36px" src="https://user-images.githubusercontent.com/12550150/134826660-ac9f0db8-c6e7-4398-bd8d-8bb42fd61ae4.png" />][webdevplaylist]
-[<img align="left" alt="C#" width="36px" height="36px"  src="https://user-images.githubusercontent.com/12550150/134826684-d8adb397-53c0-4251-82c4-e7cccfd5082e.png" />][webdevplaylist]
-[<img align="left" alt="JAVASCRIPT" width="36px" height="36px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][cssplaylist]
-[<img align="left" alt="PYTHON" width="36px" height="36px" src="https://user-images.githubusercontent.com/12550150/134826717-994a77e9-c743-4ae3-8cc0-aeafd76a4454.png" />][cssplaylist]
-[<img align="left" alt="JAVA" width="36px" height="36px" src="https://user-images.githubusercontent.com/12550150/134826943-a45e9041-0056-4501-9304-14c9025f49e4.png" />][jsplaylist]
-[<img align="left" alt="LARAVEL" width="36px" height="36px"  src="https://user-images.githubusercontent.com/12550150/134826962-476a1dca-7d53-4f7b-8640-8520af5e81ab.png" />][reactplaylist]
-[<img align="left" alt="NODEJS" width="36px" height="36px"  src="https://user-images.githubusercontent.com/12550150/134826975-8f47918f-c13e-4d81-9ba7-eb4b06bde6ef.png" />][webdevplaylist]
-[<img align="left" alt="DJANGO" width="36px" height="36px" src="https://user-images.githubusercontent.com/12550150/134826987-a39bf042-ca36-4564-8fd6-bfde921ecf69.png" />][webdevplaylist]
-[<img align="left" alt="VISUAL STUDIO" width="36px"  height="36px" src="https://user-images.githubusercontent.com/12550150/134827040-9e7405f7-5de4-4cf9-bc0c-57a67f827aec.png" />][webdevplaylist]
-[<img align="left" alt="VISUAL STUDIO CODE" width="36px" height="36px"  src="https://user-images.githubusercontent.com/12550150/134827060-5e0811ec-b459-412d-ac61-9bf21a6ece46.png" />][webdevplaylist]
-[<img align="left" alt="ORACLE" width="36px" height="36px"  src="https://user-images.githubusercontent.com/12550150/134827074-bb4b841f-fc40-4665-be0a-7cb165597144.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="36px" height="36px"  src="https://user-images.githubusercontent.com/12550150/134827113-b48cfb3d-fd94-416d-83c6-6999ffc50371.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="36px" height="36px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="GitLab" width="36px" height="36px"  src="https://user-images.githubusercontent.com/12550150/134827130-93ef6113-55aa-4833-94f1-7c053dab0f01.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="36px" height="36px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+## Use To Code
 
-
-
-
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
